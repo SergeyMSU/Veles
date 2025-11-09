@@ -1,0 +1,10 @@
+
+*.txt
+
+Code_1/Veles_1/.vs/
+
+*.sln
+
+*.vcxproj
+
+*.user
