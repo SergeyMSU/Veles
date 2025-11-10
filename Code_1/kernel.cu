@@ -4791,7 +4791,7 @@ cudaError_t addWithCuda()
     //Konstruktor K(100, 100, 160,   -20.0, 16.0,   -19.0, 13.0,   0.0, 16.0);   // !!!!!!!!!!!!!!!!!!!!!!!
 
 
-    Konstruktor K("binary_Veles_5__.dat", true);
+    Konstruktor K("binary_Veles_5.dat", true);
     // 
     //Konstruktor K("Golikov_Setka_file_inst_16_MA_4.txt.txt", false);
     //Konstruktor K("binary_Golikov_Setka_file_moscow_31_2024_vremenniy.dat", true);
